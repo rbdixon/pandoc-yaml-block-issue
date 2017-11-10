@@ -1,5 +1,0 @@
-Pandoc (Meta {unMeta = fromList []})
-[HorizontalRule
-,Para [Str "ml:",Space,Str "|-",SoftBreak,Str "TEST"]
-,CodeBlock ("",[],[]) "BLOCK"
-,Para [Str "\8230"]]
